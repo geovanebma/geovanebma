@@ -1,5 +1,4 @@
 <h1>Olá eu sou Geovane Barbosa, e atuo como desenvolvedor fullstack!</h1>
-
 <h2>Clique em algum ícone a seguir e será mostrado projetos com o programa selecionado.</h2>
 <div style="display: inline_block"><br>
   <a href="https://github.com/geovanebma?tab=repositories&q=php"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /></a>
